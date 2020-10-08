@@ -1,0 +1,10 @@
+vendor/
+wp/
+truchypersecret.txt
+wp-config.php
+content/*
+!content/index.php
+!content/themes/
+node_modules/
+!content/plugins/
+public/
