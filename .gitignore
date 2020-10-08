@@ -4,7 +4,7 @@ truchypersecret.txt
 wp-config.php
 content/*
 !content/index.php
-!content/themes/
+!content/themes/LaManoNegra/
 node_modules/
 !content/plugins/
 public/
